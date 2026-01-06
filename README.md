@@ -12,7 +12,7 @@ To overcome the traditional constraints of NLOS field-of-view perception, this p
 - **Capture Devices:** Four smartphones.
 - **Layout:** The setup captures **adjacent dual-view** data, as illustrated in Fig .1(a).
  ![Experimental scene setup](Schematic_Diagram_of_Data_Acquisition.png)
-*<center>**Fig. 1(b).** The experimental scene setup for the MP-NLOS dataset.</center>*
+*<center>**Fig. 1.** The experimental scene setup for the MP-NLOS dataset.</center>*
 
 ### Smartphone Roles & Positioning
 | Smartphone | Role | Distance to Center (`d`) | Incident Angle |
