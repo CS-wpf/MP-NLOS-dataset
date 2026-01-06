@@ -11,7 +11,7 @@ To overcome the traditional constraints of NLOS field-of-view perception, this p
 - **Relay Surface:** A standard door.
 - **Capture Devices:** Four smartphones.
 - **Layout:** The setup captures **adjacent dual-view** data, as illustrated in Fig .1(a).
-- ![Experimental scene setup](Schematic_Diagram_of_Data_Acquisition.png)
+ ![Experimental scene setup](Schematic_Diagram_of_Data_Acquisition.png)
 *<center>**Fig. 1(b).** The experimental scene setup for the MP-NLOS dataset.</center>*
 
 ### Smartphone Roles & Positioning
