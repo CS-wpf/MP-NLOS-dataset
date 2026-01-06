@@ -31,7 +31,7 @@ To ensure high and consistent data quality, all smartphones were set to **Profes
 - **Subjects:** Five individuals, varying in gender, height, and clothing color.
 - **Trials:** Each subject performed **5 to 6 trials** while holding different props.
 - The experimental scene is shown in Fig .1(b).
-![Experimental scene setup](MP-NLOS-dataset/Schematic Diagram of Data Acquisition.png)
+![Experimental scene setup](Schematic Diagram of Data Acquisition.png)
 *<center>**Fig. 1(b).** The experimental scene setup for the MP-NLOS dataset.</center>*
 
 ## Data Processing Pipeline
