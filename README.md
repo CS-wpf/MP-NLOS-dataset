@@ -45,6 +45,7 @@ To ensure high and consistent data quality, all smartphones were set to **Profes
 2.  **Filtering:** Images outside the anchor interval or with unclear ground truth were discarded.
 3.  **Cropping & Resizing:** Each frame was cropped according to predetermined positioning points. All cropped images were then resized to a uniform dimension.
 
+
 ## Final Dataset Specifications
 After completing temporal and spatial registration, the final processed MP-NLOS dataset contains:
 - **Size:** Approximately **10,000 pairs** of NLOS and ground truth images **per viewing angle**.
@@ -52,3 +53,9 @@ After completing temporal and spatial registration, the final processed MP-NLOS 
     - For incident angle `α (35.69°)`: **40.3°**
     - For incident angle `β (41.81°)`: **47.2°**
 - These FoV values are calculated based on the processed image depth and width.
+The pre-processed images are shown in Fig. 2.
+![Pre-processed images](Pre-processed_images.png)
+*<center>**Fig. 2.** Pre-processed images.</center>*
+The post-processed images are shown in Fig. 3.
+![Post-processed images](Post-processed_images.png)
+*<center>**Fig. 3.** Post-processed images.</center>*
